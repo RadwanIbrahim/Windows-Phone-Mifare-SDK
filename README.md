@@ -1,7 +1,10 @@
-this Sample create a simple SDK to program the Mifare Smart Cards based on Windows Smart card SDK https://nfcsmartcardreader.codeplex.com/
+***Windows phone Mifare SDK***
 
-and amgalbu .net helper Class for mifare https://www.codeproject.com/Articles/144063/A-NET-MiFare-Helper-Class
+A simple SDK to program the Mifare Smart Cards based on
 
-also I added the support of the increment and decrment Commands 
+-Windows Smart card SDK https://nfcsmartcardreader.codeplex.com/
+-Amgalbu .net helper Class for mifare https://www.codeproject.com/Articles/144063/A-NET-MiFare-Helper-Class
+
+I also added the support for the increment and decrement commands.
 
 
